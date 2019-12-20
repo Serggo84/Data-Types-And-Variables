@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\bin\Debug\netcoreapp3.0\8. Town Info.exe
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\bin\Debug\netcoreapp3.0\8. Town Info.deps.json
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\bin\Debug\netcoreapp3.0\8. Town Info.runtimeconfig.json
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\bin\Debug\netcoreapp3.0\8. Town Info.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\bin\Debug\netcoreapp3.0\8. Town Info.dll
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\bin\Debug\netcoreapp3.0\8. Town Info.pdb
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\obj\Debug\netcoreapp3.0\8. Town Info.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\obj\Debug\netcoreapp3.0\8. Town Info.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\obj\Debug\netcoreapp3.0\8. Town Info.dll
+C:\Users\sergi\source\repos\Data Types And Variables\8. Town Info\obj\Debug\netcoreapp3.0\8. Town Info.pdb

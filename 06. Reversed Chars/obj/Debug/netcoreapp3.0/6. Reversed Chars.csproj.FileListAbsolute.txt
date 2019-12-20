@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\obj\Debug\netcoreapp3.0\6. Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\obj\Debug\netcoreapp3.0\6. Reversed Chars.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\bin\Debug\netcoreapp3.0\6. Reversed Chars.exe
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\bin\Debug\netcoreapp3.0\6. Reversed Chars.deps.json
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\bin\Debug\netcoreapp3.0\6. Reversed Chars.runtimeconfig.json
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\bin\Debug\netcoreapp3.0\6. Reversed Chars.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\bin\Debug\netcoreapp3.0\6. Reversed Chars.dll
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\bin\Debug\netcoreapp3.0\6. Reversed Chars.pdb
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\obj\Debug\netcoreapp3.0\6. Reversed Chars.dll
+C:\Users\sergi\source\repos\Data Types And Variables\6. Reversed Chars\obj\Debug\netcoreapp3.0\6. Reversed Chars.pdb

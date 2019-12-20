@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\bin\Debug\netcoreapp3.0\9. Chars to String.exe
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\bin\Debug\netcoreapp3.0\9. Chars to String.deps.json
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\bin\Debug\netcoreapp3.0\9. Chars to String.runtimeconfig.json
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\bin\Debug\netcoreapp3.0\9. Chars to String.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\bin\Debug\netcoreapp3.0\9. Chars to String.dll
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\bin\Debug\netcoreapp3.0\9. Chars to String.pdb
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\obj\Debug\netcoreapp3.0\9. Chars to String.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\obj\Debug\netcoreapp3.0\9. Chars to String.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\obj\Debug\netcoreapp3.0\9. Chars to String.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\obj\Debug\netcoreapp3.0\9. Chars to String.dll
+C:\Users\sergi\source\repos\Data Types And Variables\9. Chars to String\obj\Debug\netcoreapp3.0\9. Chars to String.pdb

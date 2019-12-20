@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\bin\Debug\netcoreapp3.0\2. Pounds to Dollars.exe
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\bin\Debug\netcoreapp3.0\2. Pounds to Dollars.deps.json
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\bin\Debug\netcoreapp3.0\2. Pounds to Dollars.runtimeconfig.json
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\bin\Debug\netcoreapp3.0\2. Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\bin\Debug\netcoreapp3.0\2. Pounds to Dollars.dll
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\bin\Debug\netcoreapp3.0\2. Pounds to Dollars.pdb
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\obj\Debug\netcoreapp3.0\2. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\obj\Debug\netcoreapp3.0\2. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\obj\Debug\netcoreapp3.0\2. Pounds to Dollars.dll
+C:\Users\sergi\source\repos\Data Types And Variables\2. Pounds to Dollars\obj\Debug\netcoreapp3.0\2. Pounds to Dollars.pdb

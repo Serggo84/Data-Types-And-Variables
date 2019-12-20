@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\bin\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.exe
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\bin\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.deps.json
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\bin\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.runtimeconfig.json
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\bin\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\bin\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.dll
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\bin\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.pdb
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\obj\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\obj\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\obj\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\obj\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.dll
+C:\Users\sergi\source\repos\Data Types And Variables\Data Types And Variables\obj\Debug\netcoreapp3.0\1. Convert Meters to Kilometers.pdb

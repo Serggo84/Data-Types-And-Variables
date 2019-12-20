@@ -1,0 +1,10 @@
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.exe
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.deps.json
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.runtimeconfig.json
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.dll
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.pdb
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.dll
+C:\Users\sergi\source\repos\Data Types And Variables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.0\11. Refactor Volume of Pyramid.pdb
